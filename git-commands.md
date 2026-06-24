@@ -11,10 +11,12 @@ e.g. git config user.email "sd823242@gmail.com"
 4] git add : used to add any new file to staging phase.
 e.g. git add git-commands.md
 
-5] git commit : used to commit chnages with message. Moves file from Stagging=> Track phase
+5] git status : used to check status to of git shows how many file are in staged and remaining for commit.
+
+6] git commit : used to commit chnages with message. Moves file from Stagging=> Track phase
 e.g. git commit -m "Created git-commands.md file."
 
-6] got log : used to see/verify commit history.
+7] got log : used to see/verify commit history.
 e.g. git log
      git log --oneline : shows all logs in oneline
      git log -5 : show last 5 commits history/logs.
