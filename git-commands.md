@@ -21,3 +21,19 @@ e.g. git log
      git log --oneline : shows all logs in oneline
      git log --oneline : show last 5 commits in one line.
      git log -5 : show last 5 commits history/logs.
+
+## Branching Commands ##
+
+1] git branch : to list all branches
+ 
+2] git branch <'branch name'> : to create new branch
+
+3] git checkout -b <'branch name'> : to create new branch and switch to it
+
+4] git switch <'branch name'> : used to switch between one branch to another
+
+## Commads for push and pull ##
+
+1] git push : to push the changes to branch
+
+2] git pull : to pull changes directly made on github editor
