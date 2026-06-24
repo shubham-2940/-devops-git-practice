@@ -8,3 +8,13 @@ e.g. git config user.email "sd823242@gmail.com"
 
 3] git config --list :- used to see/verify configuration.
 
+4] git add : used to add any new file to staging phase.
+e.g. git add git-commands.md
+
+5] git commit : used to commit chnages with message. Moves file from Stagging=> Track phase
+e.g. git commit -m "Created git-commands.md file."
+
+6] got log : to see the commit history
+e.g. git log
+     git log --online - shows logs in onlie
+     git log -5 - shows only last five logs
