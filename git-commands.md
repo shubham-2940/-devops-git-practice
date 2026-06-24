@@ -24,8 +24,16 @@ e.g. git log
 
 ## Branching Commands ##
 
- git branch : to list all branches
+1] git branch : to list all branches
  
- git branch <'branch name'> : to create new branch
- git checkout -b <'branch name'> : to create new branch and switch to it
- git switch <'branch name'> : used to switch between one branch to another.
+2] git branch <'branch name'> : to create new branch
+
+3] git checkout -b <'branch name'> : to create new branch and switch to it
+
+4] git switch <'branch name'> : used to switch between one branch to another
+
+## Commads for push and pull ##
+
+1] git push : to push the changes to branch
+
+2] git pull : to pull changes directly made on github editor
