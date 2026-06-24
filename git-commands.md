@@ -19,4 +19,5 @@ e.g. git commit -m "Created git-commands.md file."
 7] got log : used to see/verify commit history.
 e.g. git log
      git log --oneline : shows all logs in oneline
+     git log --oneline : show last 5 commits in one line.
      git log -5 : show last 5 commits history/logs.
